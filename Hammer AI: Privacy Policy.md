@@ -1,4 +1,4 @@
-# **HAMMER AI: PRIVACY POLICY **
+# HAMMER AI: PRIVACY POLICY
 
 Welcome to Hammer AI, a powerful application available on both Android and iOS platforms!
 
