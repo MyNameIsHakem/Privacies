@@ -11,10 +11,10 @@ Hammer AI does not collect any personally identifiable information. Any data gen
 Hammer AI does not require any special permissions to operate. It respects your device's privacy settings and only utilizes the necessary resources to provide its intended functionality.
 
 ## Security:
-We are dedicated to maintaining the security of Hammer AI. If you discover any security vulnerabilities or have questions about how the app protects your privacy, please contact us at hammerai61@gmail.com. Your feedback is invaluable, and we will promptly address any issues or concerns.
+We are dedicated to maintaining the security of Hammer AI. If you discover any security vulnerabilities or have questions about how the app protects your privacy, please contact us at hammeraiteam@gmail.com. Your feedback is invaluable, and we will promptly address any issues or concerns.
 
 ## Contact:
-If you have any questions, suggestions, or concerns regarding the privacy policy or the application itself, feel free to reach out via email at hammerai61@gmail.com.
+If you have any questions, suggestions, or concerns regarding the privacy policy or the application itself, feel free to reach out via email at hammeraiteam@gmail.com.
 
 Thank you for choosing Hammer AI. We appreciate your trust and hope you enjoy the app!
 
@@ -22,4 +22,4 @@ Yours sincerely,
 
 Hakem and paris,
 Algeria,
-hammerai61@gmail.com
+hammeraiteam@gmail.com
